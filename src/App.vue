@@ -1,5 +1,7 @@
 <template>
-  <div>App [{{ isActive }}]</div>
+  <div>
+    App [{{ isActive }}]
+  </div>
 </template>
 
 <script setup>
